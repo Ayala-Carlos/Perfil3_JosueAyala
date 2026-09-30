@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "perfil3_josueayala",
+    "slug": "perfil3_josueayala",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icono-splash-ayala.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/icono-splash-ayala.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F4F1DE"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
